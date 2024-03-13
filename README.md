@@ -14,5 +14,4 @@ O Front Trailler do Mario é um projeto de desenvolvimento web: HTML, CSS e Java
 
 ![Front Trailler do Mario](src/doc/gif_mario.gif)
 
-Este GIF ilustra o trailler do Mario, demonstrando a interatividade e a estética do projeto.
 
